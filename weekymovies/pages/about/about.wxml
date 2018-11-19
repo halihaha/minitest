@@ -1,0 +1,7 @@
+<view>
+  <image src='/images/tianheairport.jpg'></image>
+  <text class='info'>电影周周看</text>
+  <text>我每周推荐一部好电影</text>
+  <text>我的微博：weibo.com</text>
+</view>
+
